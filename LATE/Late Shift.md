@@ -9,6 +9,8 @@
 
 > MUP - Markup files
 
+ - check which files didn't update which files and maunally run reports
+
 > EOD issues
 
 *CALL LOGS AKA BUGS*
