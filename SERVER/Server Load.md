@@ -39,3 +39,6 @@ web master
 MANAGER - password - mngr
 
 xncr
+
+*CORE STATUS LOG FILE TEST*
+![**CORE STATUS LOG FILE TEST**](corestatus.JPG)
