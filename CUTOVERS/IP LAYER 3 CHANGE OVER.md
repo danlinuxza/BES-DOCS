@@ -1,4 +1,4 @@
-##IP LAYER 3 CUTOVER DETAIL##
+## IP LAYER 3 CUTOVER DETAIL ##
 
 **Confirm Added To Group**
 > whatsapp group for cutover of specific store  
@@ -16,6 +16,6 @@
  - cd /bosupd
  - unix tillconv - till ip
 
- -- start with 2
- -- leave 1 for last
- -- KDI will need to be done before till 1
+ - start with 2
+ - leave 1 for last
+ - KDI will need to be done before till 1
