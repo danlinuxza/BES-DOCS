@@ -8,9 +8,9 @@
 
 **Disk Folders to copy to E: Drive**
 
-- [x] BSS
-- [x] BASIC
-- [x] SAUPGRD
+- BSS
+- BASIC
+- SAUPGRD
 
 > **Check For Ver 2003 .txt file on all Disks**
 
