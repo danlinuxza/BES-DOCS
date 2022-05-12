@@ -1,0 +1,39 @@
+late shift start 1pm to 9pm
+
+cut overs -
+
+mup - markup files
+
+eod of issues
+
+bug come through on email - store code at the top
+
+till mismatch - check error code in spy - 98 -
+
+check journal file for data - check e jounral history file for data as well
+
+ do backup of till data - till - /cd/bosupd/ - enter and then till IP -
+
+
+
+cd /safe - check if data has been uploaded
+
+
+
+99 - first do any 98 before 99
+
+99 - server/data - for live server data
+
+md dir /nds/srvdatbackupdate
+
+move to nds directory
+
+stop server
+
+reboot till ip - data to remove
+
+start server
+
+- bashrc file to check IP of till
+
+added git version control to files
