@@ -9,7 +9,7 @@
 
 > MUP - Markup files
 
- - check which files didn't update which files and maunally run reports
+ - check which files didn't update which files and manually run reports
 
 > EOD issues
 
