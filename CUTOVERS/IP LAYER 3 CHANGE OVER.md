@@ -13,8 +13,10 @@
 
 **Conversion**
 
+
  - cd /bosupd
- - unix tillconv - till ip
+ - DOS2unix - tillconv
+ - in folder \bosupd = tillconv - till ip
 
  - start with 2
  - leave 1 for last
