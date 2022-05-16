@@ -9,3 +9,5 @@ stop JRE
 mk /nds/srvdatbackp-date
 move to /nds
 check s-idc date - till data
+start pos server
+check eod mode for tills
