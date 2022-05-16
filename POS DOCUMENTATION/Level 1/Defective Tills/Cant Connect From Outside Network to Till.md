@@ -6,7 +6,7 @@ Checking network on till
 4.	Make sure the below highlighted are corresponding with server IP and Till IP
 
 *TerminalConfig.conf*
-![**TerminalConfig.conf**](TerminalConfig.conf.JPG)
+![**TerminalConfig.conf**](TerminalConfig.conf.jpg)
 
 5.	When you confirmed all is okay or changes has been made reboot till till in order for the settings to take effect.
 
@@ -17,10 +17,10 @@ If you can’t connect via Putty from outside network
 2.	Vi .Bashrc as per below
 
 *Bashrc*
-![**Vi of Bashrc**](bashrc.JPG)
+![**Vi of Bashrc**](bashrc.jpg)
 
 3.	Scroll down below and make sure the IP is 196.10.128.1
 4.	Reboot till for changes to take effect
 
 *Bashrc default Route*
-![**Bashrc default Route**](bashrc-defaultroute.JPG)
+![**Bashrc default Route**](bashrc-defaultroute.jpg)

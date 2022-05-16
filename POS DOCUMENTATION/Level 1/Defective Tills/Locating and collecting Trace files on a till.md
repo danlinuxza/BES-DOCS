@@ -12,7 +12,7 @@ Locating the Trace files for an EFT Device connected to a till.
  You should see something similar to the below…
 
 *Postilion Trace files*
-![**Postilion Trace files**](tracefiles.JPG)
+![**Postilion Trace files**](tracefiles.jpg)
 
 - Copy these files from Linux to the server. Type the following while in the archive folder:
 -	md /home/reg/esoc

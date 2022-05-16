@@ -4,7 +4,7 @@
 2. Compare Gdpossa.env with working till
 
 *GdPosSA.env*
-![**GdPosSA.env**](gdpossa.env.JPG)
+![**GdPosSA.env**](gdpossa.env.jpg)
 
 **Note : Gdpossa.env file size should be 849 bytes including the latest release promotor update**
 
