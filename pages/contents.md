@@ -9,6 +9,9 @@
 		- DEFECTIVE TILLS
 			- [[Cannot VNC into TILL]]
 			- [[Cant Connect From Outside Network to Till]]
-			- LO
+			- [[Locating and collecting Trace files on a till]]
+			- [[Locating IDC from EJR]]
+			- [[Void not Showing on EOD Report]]
+		- G
 	- POS SCRIPTS
 	- [[Level 1Closing Cashier]]
