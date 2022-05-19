@@ -6,5 +6,9 @@
 -
 - POS DOCUMENTATION
 	- LEVEL 1
+		- DEFECTIVE TILLS
+			- [[Cannot VNC into TILL]]
+			- [[Cant Connect From Outside Network to Till]]
+			- LO
 	- POS SCRIPTS
 	- [[Level 1Closing Cashier]]
