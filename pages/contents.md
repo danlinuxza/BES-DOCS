@@ -8,6 +8,7 @@
 -
 - POS DOCUMENTATION
 	- LEVEL 1
+	  collapsed:: true
 		- DEFECTIVE TILLS
 			- [[Cannot VNC into TILL]]
 			- [[Cant Connect From Outside Network to Till]]
@@ -19,6 +20,8 @@
 			- [[Extracting gd90]]
 			- [[Printer logo not appearing on screen]]
 		- [[Enable Auto Login on a till]]
-		-
+		- [[GDPOSSA/ENV ITEM NOT ON FILE]]
 	- POS SCRIPTS
+		-
 	- [[Level 1Closing Cashier]]
+-
