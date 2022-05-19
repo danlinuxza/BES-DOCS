@@ -2,11 +2,11 @@
   collapsed:: true
 	- [[IP LAYER 3 CHANGE OVER]]
 - LATE
-  collapsed:: true
 	- [[late shift shadow]]
 	- [[Late Shift]]
 - POS DOCUMENTATION
 	- LEVEL 1
+	  collapsed:: true
 		- DEFECTIVE TILLS
 			- [[Cannot VNC into TILL]]
 			- [[Cant Connect From Outside Network to Till]]
