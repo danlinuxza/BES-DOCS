@@ -22,7 +22,7 @@
 	- POS SCRIPTS
 		- [copy.GDPOS.env.bat](../assets/copy.GDPOS.env_1652976653726_0.bat)
 	- [[Level 1Closing Cashier]]
-	- How to fix a GDPOS.mainJava.lang error
+	- [[How to fix a GDPOS.mainJava.lang error]]
 - SERVER
   collapsed:: true
 	- SEVRER AND WEBMASTER
