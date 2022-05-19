@@ -26,4 +26,8 @@
 	- [[Level 1Closing Cashier]]
 - SERVER
 	- SEVRER AND WEBMASTER
-		-
+		- LEVEL 1
+			- [[Check For Missing Data]]
+			- [[Net Use To a Server or Till]]
+			- [[Update POST/TAR/GZ]]
+			-
