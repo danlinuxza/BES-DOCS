@@ -40,4 +40,5 @@
 - copy store file zip from mup central server
 - to desktop folder
 - webmaster / - xncr
+	- option
 -
