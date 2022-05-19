@@ -25,6 +25,7 @@
 		- [copy.GDPOS.env.bat](../assets/copy.GDPOS.env_1652976653726_0.bat)
 	- [[Level 1Closing Cashier]]
 - SERVER
+  collapsed:: true
 	- SEVRER AND WEBMASTER
 		- LEVEL 1
 			- [[Check For Missing Data]]
@@ -40,8 +41,12 @@
 			-
 	- [[Server Load]]
 - SQL
+  collapsed:: true
 	- [[sql]]
 - TILL
+  collapsed:: true
 	- [[Adding tills]]
 - TRAINING
-	-
+  collapsed:: true
+	- [[day2]]
+	- [[day 3]]
