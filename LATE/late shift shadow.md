@@ -31,4 +31,7 @@
   step 51
   click ignore error pop up box
 -
-- test test
+- gaffif
+-
+- core error
+	- stop jre
