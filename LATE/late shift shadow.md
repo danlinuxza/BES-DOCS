@@ -37,4 +37,7 @@
 	- stop jre
 	- restart server
 	- check MUP
+- copy store file zip from mup central server
+- to desktop folder
+-
 -
