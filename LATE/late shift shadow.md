@@ -44,5 +44,5 @@
 	- will recreate markup - select todays date
 	- submit
 	- more - option 3 payat
-	- file transfer - c/opc/
+	- file transfer - c/opc/ , modify by date check for two latest files
 -
