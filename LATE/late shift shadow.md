@@ -40,5 +40,5 @@
 - copy store file zip from mup central server
 - to desktop folder
 - webmaster / - xncr
-	- option 9  , option 5 ,
+	- option 9  , option 5 ,  more , option 2 bill payments
 -
