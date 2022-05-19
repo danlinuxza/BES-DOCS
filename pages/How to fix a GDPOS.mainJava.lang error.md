@@ -1,5 +1,6 @@
 title:: How to fix a GDPOS.mainJava.lang error
 
+-
 - Click on Start
 - Click on Run
 - Type in the IP address of a working till, with \reg\gd90
