@@ -46,5 +46,5 @@
 	- more - option 3 payat
 	- file transfer - c/opc/ , modify by date check for two latest files
 	- copy to pc
-	- rename - files
+	- rename files to correct markup file names
 -
