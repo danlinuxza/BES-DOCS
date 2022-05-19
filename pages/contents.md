@@ -7,7 +7,6 @@
 	- [[Late Shift]]
 -
 - POS DOCUMENTATION
-  collapsed:: true
 	- LEVEL 1
 		- DEFECTIVE TILLS
 			- [[Cannot VNC into TILL]]
@@ -15,6 +14,7 @@
 			- [[Locating and collecting Trace files on a till]]
 			- [[Locating IDC from EJR]]
 			- [[Void not Showing on EOD Report]]
-		- G
+		- GD90
+			-
 	- POS SCRIPTS
 	- [[Level 1Closing Cashier]]
