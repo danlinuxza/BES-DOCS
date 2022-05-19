@@ -1,6 +1,6 @@
 title:: How to fix a GDPOS.mainJava.lang error
 
-- ![**GDPOS MAIN JAVA LANG ERROR**](gdpos.main.java.lan error.jpg)
+- ![GDPOS MAIN JAVA LANG ERROR](../assets/gdpos.main.java.lan_error_1652978253003_0.jpg) gdpos.main.java.lan error.jpg)
 -
 - Click on Start
 - Click on Run
