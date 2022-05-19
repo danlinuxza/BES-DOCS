@@ -15,6 +15,10 @@
 			- [[Locating IDC from EJR]]
 			- [[Void not Showing on EOD Report]]
 		- GD90
-			-
+			- [[data putback]]
+			- [[Extracting gd90]]
+			- [[Printer logo not appearing on screen]]
+		- [[Enable Auto Login on a till]]
+		-
 	- POS SCRIPTS
 	- [[Level 1Closing Cashier]]
