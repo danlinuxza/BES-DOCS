@@ -22,6 +22,7 @@
 		- [[Enable Auto Login on a till]]
 		- [[GDPOSSA/ENV ITEM NOT ON FILE]]
 	- POS SCRIPTS
+		- [copy.GDPOS.env.bat](../assets/copy.GDPOS.env_1652976653726_0.bat)
 		-
 	- [[Level 1Closing Cashier]]
 -
