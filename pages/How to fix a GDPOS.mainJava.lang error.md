@@ -1,5 +1,6 @@
 title:: How to fix a GDPOS.mainJava.lang error
 
+- ![**GdPosSA.env**](gdpossa.env.jpg)
 -
 - Click on Start
 - Click on Run
