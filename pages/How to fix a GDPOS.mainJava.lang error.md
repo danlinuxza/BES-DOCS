@@ -1,6 +1,6 @@
 title:: How to fix a GDPOS.mainJava.lang error
 
-- ![**GdPosSA.env**](gdpossa.env.jpg)
+- ![**GDPOS MAIN JAVA LANG ERROR**](gdpos.main.java.lan error.jpg)
 -
 - Click on Start
 - Click on Run
