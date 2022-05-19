@@ -47,5 +47,5 @@
 	- file transfer - c/opc/ , modify by date check for two latest files
 	- copy to pc
 	- rename files to correct markup file names
-	- zip new files -- storecode
+	- zip new files -- storecode , capital .ZIP
 -
