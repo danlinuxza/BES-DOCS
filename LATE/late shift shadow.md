@@ -49,4 +49,4 @@
 	- rename files to correct markup file names
 	- zip new files -- storecode , capital .ZIP
 - net use \\172.16.8.152\inbound
--
+- slow connection - vnc
