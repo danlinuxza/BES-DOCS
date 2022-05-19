@@ -18,6 +18,3 @@
 		- G
 	- POS SCRIPTS
 	- [[Level 1Closing Cashier]]
--
--
--
