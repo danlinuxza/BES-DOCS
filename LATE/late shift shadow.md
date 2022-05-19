@@ -33,5 +33,5 @@
 -
 - gaffif
 -
-- core error
+- core error not loading
 	- stop jre
