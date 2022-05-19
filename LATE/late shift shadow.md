@@ -35,3 +35,5 @@
 -
 - core error not loading
 	- stop jre
+	- restart server
+	-
