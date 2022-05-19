@@ -7,4 +7,4 @@
 - POS DOCUMENTATION
 	- LEVEL 1
 	- POS SCRIPTS
-	-
+	- [[Level 1Closing Cashier]]
