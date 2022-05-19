@@ -51,3 +51,4 @@
 - net use \\172.16.8.152\inbound
 - slow connection - vnc
 - check smd server
+- process
