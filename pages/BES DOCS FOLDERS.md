@@ -6,9 +6,7 @@
 	- [[late shift shadow]]
 	- [[Late Shift]]
 - POS DOCUMENTATION
-  collapsed:: true
 	- LEVEL 1
-	  collapsed:: true
 		- DEFECTIVE TILLS
 			- [[Cannot VNC into TILL]]
 			- [[Cant Connect From Outside Network to Till]]
@@ -24,6 +22,7 @@
 	- POS SCRIPTS
 		- [copy.GDPOS.env.bat](../assets/copy.GDPOS.env_1652976653726_0.bat)
 	- [[Level 1Closing Cashier]]
+	- How to fix a GDPOS.mainJava.lang error
 - SERVER
   collapsed:: true
 	- SEVRER AND WEBMASTER
