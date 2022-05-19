@@ -32,4 +32,7 @@
 			- [[Update POST/TAR/GZ]]
 			-
 		- Update The Services.dat File
-		-
+			- [copyFILES.bat](../assets/copyFILES_1652976846550_0.bat)
+			- [SERVICES.DAT](../assets/SERVICES_1652976852642_0.DAT)
+			- [[Services]]
+		- web
