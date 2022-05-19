@@ -48,5 +48,5 @@
 	- copy to pc
 	- rename files to correct markup file names
 	- zip new files -- storecode , capital .ZIP
-- net use -
+- net use \\172.16.8.
 -
