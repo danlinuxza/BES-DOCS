@@ -5,8 +5,8 @@
   collapsed:: true
 	- [[late shift shadow]]
 	- [[Late Shift]]
--
 - POS DOCUMENTATION
+  collapsed:: true
 	- LEVEL 1
 	  collapsed:: true
 		- DEFECTIVE TILLS
@@ -23,6 +23,7 @@
 		- [[GDPOSSA/ENV ITEM NOT ON FILE]]
 	- POS SCRIPTS
 		- [copy.GDPOS.env.bat](../assets/copy.GDPOS.env_1652976653726_0.bat)
-		-
 	- [[Level 1Closing Cashier]]
--
+- SERVER
+	- SEVRER AND WEBMASTER
+		-
