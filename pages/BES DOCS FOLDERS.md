@@ -2,9 +2,11 @@
   collapsed:: true
 	- [[IP LAYER 3 CHANGE OVER]]
 - LATE
+  collapsed:: true
 	- [[late shift shadow]]
 	- [[Late Shift]]
 - POS DOCUMENTATION
+  collapsed:: true
 	- LEVEL 1
 	  collapsed:: true
 		- DEFECTIVE TILLS
