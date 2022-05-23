@@ -6,9 +6,11 @@
 	- copy    *.* / bosupd
 	-
 	- c:
-		- dp4 - updclean
+		- cd \dp4 - updclean
 	-
 	- dir - check for cmd and zip
 	-
 	- check command - check upgrade.ver
+	-
+	- doens't run
 	-
