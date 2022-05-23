@@ -2,8 +2,9 @@
 	- E:  drive , upgrades
 	- send upgrade on store
 	- E:
-	- dir - check for cmd and zip
+	- cd into upgrade upgrade directoy
 	- copy to bosupd
+	- dir - check for cmd and zip
 	-
 	- check command - check upgrade.ver
 	-
