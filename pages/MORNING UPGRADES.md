@@ -5,3 +5,5 @@
 	- dir
 	- copy to bosupd
 	-
+	- check command - check upgrade.ver
+	-
