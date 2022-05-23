@@ -15,3 +15,6 @@
 	- doens't run
 		- in bosupd and delete upgrade.sen
 	-
+	- TODO UPGRADE CHECKLIST SEND EMAIL
+	-
+	-
