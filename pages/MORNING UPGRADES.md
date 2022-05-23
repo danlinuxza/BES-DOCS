@@ -3,7 +3,7 @@
 	- send upgrade on store
 	- E:
 	- cd into upgrade upgrade directoy
-	- copy    *.* / bosupd
+	- copy   " *.*" / bosupd
 	-
 	- c:
 		- cd \dp4 - updclean
@@ -13,4 +13,5 @@
 	- check command - check upgrade.ver
 	-
 	- doens't run
+		- in bosupd and delete upgrade.sen
 	-
