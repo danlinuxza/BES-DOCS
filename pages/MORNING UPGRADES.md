@@ -1,7 +1,7 @@
 - check ip
 	- e drive , upgrades
 	- send upgrade on store
-	- e;
+	- E"
 	- dir
 	- copy to bosupd
 	-
