@@ -1,8 +1,8 @@
 - check ip
-	- E: drive , upgrades
+	- E:  drive , upgrades
 	- send upgrade on store
 	- E:
-	- dir
+	- dir - check for cmd and zip
 	- copy to bosupd
 	-
 	- check command - check upgrade.ver
