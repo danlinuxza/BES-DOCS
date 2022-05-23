@@ -1,2 +1,2 @@
 - check ip
-	- e drive
+	- e drive , upgrades
