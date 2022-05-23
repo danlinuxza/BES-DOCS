@@ -3,8 +3,11 @@
 	- send upgrade on store
 	- E:
 	- cd into upgrade upgrade directoy
-	- copy *.* / bosupd
-	- copy to bosupd
+	- copy    *.* / bosupd
+	-
+	- c:
+		- dp4 - updclean
+	-
 	- dir - check for cmd and zip
 	-
 	- check command - check upgrade.ver
