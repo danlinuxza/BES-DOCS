@@ -1,1 +1,3 @@
--
+- copy data from till
+	- POS-BACKUP
+	- check in nds for bytes folder
