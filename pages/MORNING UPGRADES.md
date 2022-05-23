@@ -18,4 +18,7 @@
 	- TODO UPGRADE CHECKLIST SEND EMAIL
 	-
 	-
+	- BUGZILLA
+		- 0.0 for all values
+		-
 	-
