@@ -1,2 +1,3 @@
 - check ip
 	- e drive , upgrades
+	- send upgrade on store
