@@ -3,3 +3,9 @@
 	- check in nds for bytes folder
 	- copy folder to local PC to edit
 	- find data for missing tills
+	- data folder - today and yesterday
+	- safe folder - two days - 3 weeks of files
+	- safeinit - all data for each till
+-
+- 21/05/22 - till 12
+	- copy form .003 to folder .DAT

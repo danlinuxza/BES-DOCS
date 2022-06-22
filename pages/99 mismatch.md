@@ -1,0 +1,6 @@
+- check for 98
+- check for data for today on till
+- backup till data
+	- stop pos server
+		- move serverdata to /nds/serverbkpdate
+		-

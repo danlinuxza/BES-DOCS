@@ -1,0 +1,15 @@
+Hi,
+
+Attached is a batch file to copy data with the same date from one directory to another.
+
+First rename the file from cdat.txt to cdat.bat
+
+How to use batch:
+
+Copy to c:\nds of store.
+
+You need to put in the directory you copying from, the directory you copying to and the date you want to copy.
+
+Eg:cdat c:\nds\posdata\safe c:\nds\24-11 01/10/2013
+
+
