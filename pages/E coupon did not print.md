@@ -1,0 +1,4 @@
+- > Check for WM code in POS log or in call comments
+- ![image.png](../assets/image_1656158311525_0.png)
+- decode 64code encryption - https://www.base64decode.org/
+- send decoded number in bug

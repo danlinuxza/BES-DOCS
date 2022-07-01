@@ -1,0 +1,6 @@
+- CHECK STORE STATUS FILE - REPORTING ISSUE
+	- Search for interrupted
+	- CHECK size of files in different
+		- MTXWM/GM/LAN to C: Server
+	- HOCIDC created - run live EOD - after step 12
+	-

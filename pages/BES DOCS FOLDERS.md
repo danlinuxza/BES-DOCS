@@ -9,6 +9,7 @@
 - ### POS DOCUMENTATION
   collapsed:: true
 	- LEVEL 1
+	  collapsed:: true
 		- DEFECTIVE TILLS
 			- [[Cannot VNC into TILL]]
 			- [[Cant Connect From Outside Network to Till]]
@@ -32,6 +33,8 @@
 		- [[POS-DATA-SCRIPTS]]
 		- [[POS LOGS]]
 		- [[Adding additional lanes]]
+		- [[E coupon did not print]]
+		-
 		-
 		-
 		-
@@ -46,6 +49,7 @@
 - ### SERVER
   collapsed:: true
 	- SEVRER AND WEBMASTER
+	  collapsed:: true
 		- LEVEL 1
 			- [[Check For Missing Data]]
 			- [[Net Use To a Server or Till]]

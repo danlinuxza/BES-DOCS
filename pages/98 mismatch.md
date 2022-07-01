@@ -1,0 +1,23 @@
+- backup till data C:\bosupd bk-till.bat
+- cd: \Server serv K STOP
+- cmd - tilln IPadress of till
+- vnc to till
+- ALT F4 to go to AS@R Menu
+- start POS server
+	- cd: /Server serv START
+- declare till okay - enter daily password
+- if asks asks for daily again click enter
+- data delete select NO
+- start POS Program
+-
+- backup till data - c:\bosupd bk-Till.bat
+- enter nds directory name to be created
+- vnc to till
+- stop pos server
+-
+- start pos server
+-
+- start POS program
+- POS BACKUP
+	- check nds folder for bytes folder
+	- rename to bytes1

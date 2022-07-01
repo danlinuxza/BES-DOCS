@@ -1,6 +1,8 @@
 - check for 98
-- check for data for today on till
-- backup till data
+- do any 98 first
 	- stop pos server
-		- move serverdata to /nds/serverbkpdate
-		-
+		- md c:\nds\srvdatabkp_date
+		- move *.* server\data to \nds\srv_bkpdate
+		- start pos server
+- HALF MOON
+	- reboot till ip DATA ( delete data)
