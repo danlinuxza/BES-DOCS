@@ -1,3 +1,7 @@
+- CHECK \SERVER\SAFE\HISTORY.001 and current
+- To
+  search for data you will type in “DIR *00 Till number*
+- CHECK \SERVER\DATA\ dir idc*00X*
 - backup till data C:\bosupd bk-till.bat
 - cd: \Server serv K STOP
 - cmd - tilln IPadress of till
@@ -9,15 +13,9 @@
 - if asks asks for daily again click enter
 - data delete select NO
 - start POS Program
--
-- backup till data - c:\bosupd bk-Till.bat
-- enter nds directory name to be created
-- vnc to till
-- stop pos server
--
-- start pos server
--
 - start POS program
+-
+-
 - POS BACKUP
 	- check nds folder for bytes folder
 	- rename to bytes1
