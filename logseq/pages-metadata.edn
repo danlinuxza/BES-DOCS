@@ -15,7 +15,7 @@
   :block/updated-at 1653630709950}
  {:block/name "adding tills",
   :block/created-at 1652961509760,
-  :block/updated-at 1656403172596}
+  :block/updated-at 1657569284647}
  {:block/name "b",
   :block/created-at 1652962651604,
   :block/updated-at 1652962651604}
@@ -108,7 +108,13 @@
   :block/updated-at 1653292489566}
  {:block/name "jul 10th, 2022",
   :block/created-at 1657449695130,
-  :block/updated-at 1657476276698}
+  :block/updated-at 1657481262398}
+ {:block/name "jul 11th, 2022",
+  :block/created-at 1657539433516,
+  :block/updated-at 1657566571154}
+ {:block/name "jul 12th, 2022",
+  :block/created-at 1657623923717,
+  :block/updated-at 1657623923717}
  {:block/name "jul 4th, 2022",
   :block/created-at 1656933796878,
   :block/updated-at 1656947220046}

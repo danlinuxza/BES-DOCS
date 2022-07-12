@@ -16,8 +16,6 @@
 	-
 	- spf file used for pole display , web ticketing and also
 	- file ending the first 1 is for p2pe
-	- second 1 is for
-	- and third 1 is for
 	  
 	  **COPY LOCATIONS FOR TILL CHANGE**
 	- server
