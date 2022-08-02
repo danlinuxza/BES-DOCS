@@ -1,16 +1,18 @@
-## ADDING TILLS ##
+public:: true
 
-**Log Onto Server**
-
-*SEE LIST BELOW*
-
-> copy over 4 files from server directory
-
-> bil ,lan, cnt ,spf .org files to  PC
-
-> make backup to /nds/
-
-> make backup of directory on server before editing
+- **ADDING TILLS** 
+  
+  **Log Onto Server**
+	-
+	- *SEE LIST BELOW*
+	  
+	  > copy over 4 files from server directory
+	  
+	  > bil ,lan, cnt ,spf .org files to  PC
+	  
+	  > make backup to /nds/
+	  
+	  > make backup of directory on server before editing
 	- > add after last number copy and paste required amount
 	- > CTRL A - for enter return and bottom of file
 	-

@@ -1,0 +1,2 @@
+- Go to C:\web\mtxwm\conf
+- goto Login.properties file

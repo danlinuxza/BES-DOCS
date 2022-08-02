@@ -1,4 +1,4 @@
-- TO test if SPF configuration worked
+- **TO test if SPF configuration worked**
 	- Log on to till
 	- ALT + F4
 	- Option 2 - Software Update
