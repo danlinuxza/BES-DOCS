@@ -3,5 +3,6 @@
 -
 - TWO OPTIONS
 	- [[LIVE EOD]]
-	- [[STEP 8]]
+	- [[STEP 8]] - TRY THIS FIRST
+-
 -

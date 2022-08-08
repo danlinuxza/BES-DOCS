@@ -22,6 +22,18 @@
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659438697566,
   :block/updated-at 1659465002469}
+ {:block/name "aug 3rd, 2022",
+  :block/created-at 1659536858455,
+  :block/updated-at 1659547231067}
+ {:block/name "aug 6th, 2022",
+  :block/created-at 1659797941842,
+  :block/updated-at 1659798092947}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1659871671680,
+  :block/updated-at 1659965461289}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1659965456067,
+  :block/updated-at 1659966038506}
  {:block/name "b",
   :block/created-at 1652962651604,
   :block/updated-at 1652962651604}
@@ -46,6 +58,9 @@
  {:block/name "card",
   :block/created-at 1652962651603,
   :block/updated-at 1652962651603}
+ {:block/name "cashier sign in and test",
+  :block/created-at 1659966038505,
+  :block/updated-at 1659966040484}
  {:block/name "check for missing data",
   :block/created-at 1652961509330,
   :block/updated-at 1652961509330}
@@ -177,7 +192,7 @@
   :block/updated-at 1657373066969}
  {:block/name "jun 12th, 2022",
   :block/created-at 1655118519324,
-  :block/updated-at 1658226726662}
+  :block/updated-at 1659965964302}
  {:block/name "jun 13th, 2022",
   :block/created-at 1655118520123,
   :block/updated-at 1655122144517}
@@ -274,6 +289,9 @@
  {:block/name "pos-data-scripts",
   :block/created-at 1653293230298,
   :block/updated-at 1653293263966}
+ {:block/name "post",
+  :block/created-at 1659536910115,
+  :block/updated-at 1659536910115}
  {:block/name "pricing issues",
   :block/created-at 1653648615836,
   :block/updated-at 1653648711242}
@@ -289,18 +307,27 @@
  {:block/name "services",
   :block/created-at 1652961509533,
   :block/updated-at 1652961509533}
+ {:block/name "spf config",
+  :block/created-at 1659798092945,
+  :block/updated-at 1659798199622}
  {:block/name "sql",
   :block/created-at 1652961509694,
   :block/updated-at 1655463920964}
  {:block/name "step 11",
   :block/created-at 1657043176011,
-  :block/updated-at 1657044265722}
+  :block/updated-at 1659805709027}
  {:block/name "step 54",
   :block/created-at 1659373081766,
   :block/updated-at 1659374174006}
  {:block/name "step 55",
   :block/created-at 1656401333348,
   :block/updated-at 1656401333348}
+ {:block/name "step 62",
+  :block/created-at 1659547231063,
+  :block/updated-at 1659547231063}
+ {:block/name "step 62/63",
+  :block/created-at 1659547231061,
+  :block/updated-at 1659547737112}
  {:block/name "step 7",
   :block/created-at 1656611371109,
   :block/updated-at 1657128158174}
