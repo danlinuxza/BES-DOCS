@@ -1,4 +1,5 @@
 - copy *.DAT c:\
+- **DO POSBACKUP**
 -
 - _Stop POS Server and rebuild it._
 - _Then run the script to put the data back._
