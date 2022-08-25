@@ -1,0 +1,7 @@
+- cd c: \ghost.pos
+- wrtie GdPosSA.env
+- add NEDBANKDEPOSITAUTHLIMIT=200000 after in Nedbank Deposit Settings
+-
+- ![image.png](../assets/image_1661433828065_0.png)
+-
+-

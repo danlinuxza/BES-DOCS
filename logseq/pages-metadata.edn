@@ -46,6 +46,15 @@
  {:block/name "aug 22nd, 2022",
   :block/created-at 1661154499816,
   :block/updated-at 1661155212066}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1661229480300,
+  :block/updated-at 1661229480300}
+ {:block/name "aug 24th, 2022",
+  :block/created-at 1661346356809,
+  :block/updated-at 1661402951142}
+ {:block/name "aug 25th, 2022",
+  :block/created-at 1661400796880,
+  :block/updated-at 1661433765923}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659438697566,
   :block/updated-at 1659465002469}
@@ -61,6 +70,9 @@
  {:block/name "aug 8th, 2022",
   :block/created-at 1659965456067,
   :block/updated-at 1659966038506}
+ {:block/name "auth limit for nedbank",
+  :block/created-at 1661433765921,
+  :block/updated-at 1661433828670}
  {:block/name "b",
   :block/created-at 1652962651604,
   :block/updated-at 1652962651604}
@@ -88,6 +100,9 @@
  {:block/name "cashier sign in and test",
   :block/created-at 1659966038505,
   :block/updated-at 1659966040484}
+ {:block/name "changing liquor logo slip",
+  :block/created-at 1661404423429,
+  :block/updated-at 1661404426364}
  {:block/name "check for missing data",
   :block/created-at 1652961509330,
   :block/updated-at 1652961509330}
@@ -130,6 +145,9 @@
  {:block/name "ecoupon database",
   :block/created-at 1659002103867,
   :block/updated-at 1659002126898}
+ {:block/name "eft databse remove",
+  :block/created-at 1661346401072,
+  :block/updated-at 1661346425454}
  {:block/name "enable auto login on a till",
   :block/created-at 1652961508951,
   :block/updated-at 1652961508951}
@@ -307,6 +325,9 @@
  {:block/name "net use to a server or till",
   :block/created-at 1652961509410,
   :block/updated-at 1652961509410}
+ {:block/name "new doc for liquor slip",
+  :block/created-at 1661410987656,
+  :block/updated-at 1661411976266}
  {:block/name "new page: cu",
   :block/created-at 1653292700743,
   :block/updated-at 1653292700743}
