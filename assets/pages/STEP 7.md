@@ -1,0 +1,27 @@
+- copy *.* server\data to bkp folder
+- check for HOIDC
+	- cd: /server.safe
+- stop POS Server
+- cd: \Sever\Data
+- md \nds\srvbkp_date
+- copy *.* to nds folder created
+- cd..
+- c:\Server
+	- notepad M_LANXXX.ORG
+- Highlight from C:800 to EOF and copy to
+	- c:\Server\data\M_LAN999.DAT
+	- YES save changed
+- c:\Server\notepad S_CTLXXX.ORG(Cashier File)
+	- Copy from C:0800 to EOF
+	- Copy to c:\Server\Data notepad M_CTL999.DAT
+	- Same from 0800
+	- Save
+- C:\Server\Data move S_IDC8* c:\nds
+	- Always be one file
+- cd:\web
+	- jre stop
+	- cd:\web\mtxwm\logs
+	- move logs to backup nds folder created
+- cd:\web jrestart
+- Start POS Server
+-

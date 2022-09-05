@@ -1,0 +1,260 @@
+**** SERVICES.DAT RELEASE - 02/01/2008 ****
+**** RELEASE NOTES ****
+- 30/04/2010 - Added Virgin R99 Voucher
+- 14/01/2010 - Added Virgin R10 Voucher
+- 14/01/2010 - Added Austrian Voucher
+- 14/01/2010 - Added SAA Cycle Voucher
+- 28/05/2009 - removal of Isurf R59
+- 12/03/2009 - Added UKash Vouchers
+- 12/03/2009 - Removed SAA Cycle Voucher
+- 07/01/2009 - removal of Pnpplay, Realtalk 
+- 07/01/2009 - removal of Isurf R39 
+- 07/01/2009 - Removal of Cell C R35 R70 R150
+- 07/01/2009 - virgin Vouchers added R15 R35 R50 R80
+- 22/10/2008 - R5 and R10 MTN 
+- 10/10/2008 - R5 Vodacom Added
+- 04/02/2008 - ADD SAA CYCLE VOUCHER
+- 02/01/2008 - National Online BillPayment and RetailBond release
+- 09/09/2007 - Added Axess ADSL
+- 02/07/2007 - Add RSA Retal Bonds
+- 25/01/2007 - Date update 
+- 22/11/2006 - Added "Cell C R5 Token"
+
+Any non-numeric field in the first column indicates a comment (except "ML")
+=============================================================
+
+The columns are as follows : 
+  service_number, account_number_required_flag, mini-description-no-spaces,
+  amount_required_flag, extended_code_required, reprint_allowed_flag,
+  routine_indicator_flag, BIN_check_required, accumulating_dept,
+  stand_alone_function, Giuseppe's comment area.
+
+The * indicates to the cashier that an account number is required.
+
+00 T 3RDPTY Y N Y 9 Y 7500 Y Giuseppe's comment area
+01 Y ELECTRICITY Y N Y 1 Y 8000 Y Giuseppe's comment area
+02 Y WATER Y N Y 3 N 7500 Y Giuseppe's comment area
+03 M ELECTRICITY Y N Y 1 N 8000 Y Magstripe required entry
+04 Y ELECTRICITY N N Y 1 N 8000 Y Giuseppe's comment area
+05 M ELECTRICITY N N Y 1 N 8000 Y Magstripe required entry
+06 S RETAIL_BOND_P Y N N 6 N 8003 N Retail Bond Purchase
+07 N RETAIL_BOND_Q N N N 6 N 8003 N Retail Bond Query
+11 N Vodacom N N N 2 N 4400 Y Giuseppe's comment area
+12 N Kwikpay N N N 2 N 4400 Y Giuseppe's comment area
+21 N MTN N N N 2 N 4400 Y Giuseppe's comment area
+22 Y MTN Y N Y 2 N 4400 Y Direct recharge
+31 N CELL-C N N N 2 N 4400 Y Giuseppe's comment area
+32 Y CELL-C Y N N 2 N 4400 Y Giuseppe's comment area
+40 N TELKOM Y N N 2 N 4400 Y Telkom pre-paid
+41 N Parking Y N Y 0 N 7500 Y Parking Meters
+51 M GIFT_VOUCHER Y N Y 4 Y 8001 N Gift Card Topup Card Swipe
+52 Y GIFT_VOUCHER Y N Y 4 Y 8001 N Gift Card Topup Key ntry
+53 M SPLASHOUT Y N Y 4 Y 8001 N SplashOut Card Topup Card Swipe
+55 Y MOBILE-X Y N N 0D Y 7400 N Mobile Transfer Deposit
+56 Y MOBILE-X Y N N 0D Y 7500 N Mobile Transfer Withdrawal
+60 N LOTTO N N N 0A N 3900 Y Test slot # 0
+65 Y MONEY-X Y N N 0B N 7400 N Money Transfer Deposit
+66 Y MONEY-X Y N N 0B N 7500 N Money Transfer Withdrawal
+67 N DEPOSIT Y N N 0D N 7600 Y Nedbank Online Deposit
+71 Y EASYPAY Y N Y 5 N 8002 Y Bill Payment
+72 Y EASYPAY Y Y Y 5 N 8002 Y Bill Cancellation
+74 Y TICKET N Y Y 0C N 1105 Y Pay@ Ticket Payment Req
+75 Y PAY@ Y Y Y 0C N 1105 Y Pay@ Services Payment Req
+80 M ELECTRICITY Y N Y 1 Y 8000 Y Mag-stripe Electricity Blind-Vending
+81 Y ELECTRICITY Y N Y 1 Y 8000 Y Manual-Entry Electricity Blind-Vending
+82 M ELECTRICITY Y N Y 1 Y 8000 Y Mag-stripe Electricity Trial-Vending
+83 Y ELECTRICITY Y N Y 1 Y 8000 Y Manual-Entry Electricity Trial-Vending
+84 M ELECTRICITY N N Y 1 Y 8000 Y Mag-stripe Electricity Re-Issue
+85 Y ELECTRICITY N N Y 1 Y 8000 Y Manual-Entry Electricity Re-Issue
+86 M ELECTRICITY N N Y 1 Y 8000 Y Mag-stripe Electricity Fault-Reporting
+87 Y ELECTRICITY N N Y 1 Y 8000 Y Manual-Entry Electricity Fault-Reporting
+88 N PLU N N Y 8 N 000 Y Plu products
+
+The account_number_required_flag values are :
+   Y   :   number required - manual entry
+   M   :   number required - magstripe swipe only
+   T       traditional Third Party account number (special case)
+   N   :   no account number
+   S   :   Special method for National ID Number 
+
+The amount_required_flag values are :
+   Y   :   the amount will be key entered
+   N   :   the amount will be obtained from the barcode PLU
+   L   :   the amount must be entered and a LAN barcode built
+
+The reprint_allowed_flag flag values are :
+   Y   :   a reprint of the voucher is allowed
+   N   :   a reprint of the voucher is not allowed
+
+The routine_indicator_flag values are : 
+   0   :   unknown (ie can't use yet)
+   1   :   utility - electricity
+   2   :   telephone airtime
+   3   :   utility - water
+   4   :   utility - gift voucher
+   5   :   utility - easypay
+   6   :   utility - retail bonds purchase
+   7   :   utility - retail bonds query
+   8   :   plu
+   9   :   easypay (traditional 3rdparty)
+   A   :   lotto
+   B   :   money-x
+   C   :   pay@
+   D   :   wicode
+
+
+PosPlus Till Menu System - Dynakey arrangement from Service key
+===============================================================
+
+This identifies the menuing system of the PosPlus FS32 Till, as used
+by the "Services" substem.  This system is flexible in that it will allow
+any number of levels.  The format is simple : the letters "ML" identify
+a menu-level.  Thereafter, a series of two digit codes (identifying the
+actual level) followed by a space (or * => grayed-out, or # =>suppressed)
+and a Dyna-key description (9 chars max).  One of each sub-level must
+eventually end with a "S=??" string, where "??" identifies the service
+from the table above.  That table identifies the further processing
+capabilities : account number (key/magstripe), amount, plu etc.
+If PLU capability is required, then the values are embedded in the table
+below with the recognition string "P=??...??".   Also, as menu levels
+are traversed, a recognition string "M=??...??" can be used.  This string
+will be displayed to the cashier when on that level, and is meant to 
+used as a help item.
+
+
+
+
+ML01 "3RD PARTY|PAYMENTS"          S=71 R=123456 T=EasyPayM=SELECT TYPE
+ML02 "ESKOM|ELECTRICITY"           M=SELECT SUPPLIER
+ML0201 "FREE|ELECTRICITY"          M=SELECT ENTRY MODE
+ML020101 "MAG-SWIPE"               S=05 R=123456 T=Electricity-Free
+ML020102 "KEY ENTRY"               S=04 R=123456 T=Electricity-Free
+ML0202 "PAID|ELECTRICITY"          M=SELECT ENTRY MODE
+ML020201 "MAG-SWIPE"               S=03 R=123456 T=Electricity-Paid
+ML020202 "KEY ENTRY"               S=01 R=123456 T=Electricity-Paid
+ML03 "PREPAID|PHONE"               M=SELECT SUPPLIER
+ML0301 "VODACOM|CELLPHONE"         M=SELECT TYPE
+ML030101 "VODAGO|R5  TOKEN"        S=11 P=6006986001097 R=123456 T=TELEPHONE PREPAY
+ML030102 "VODAGO|R12 TOKEN"        S=11 P=6006986000618 R=123456 T=TELEPHONE PREPAY
+ML030103 "VODAGO|R29 TOKEN"        S=11 P=6006986000878 R=123456 T=TELEPHONE PREPAY
+ML030104 "VODAGO|R55 TOKEN"        S=11 P=6006986000885 R=123456 T=TELEPHONE PREPAY
+ML030105 "VODAGO|R110 TOKEN"       S=11 P=6006986000892 R=123456 T=TELEPHONE PREPAY
+ML030106 "VODAGO|R275 TOKEN"       S=11 P=6006986000908 R=123456 T=TELEPHONE PREPAY
+ML030107 "VODAGO|R1000 TOKEN"      S=11 P=6006986000915 R=123456 T=TELEPHONE PREPAY
+ML030108 "MORE"                    M=SELECT TYPE
+ML03010801 "VODAGO|R49 SMS"        S=11 P=6006986000274 R=123456 T=TELEPHONE PREPAY
+ML0302 "WORLDCALL|TOKENS"          M=SELECT TYPE
+ML030201 "WORLDCALL|R50 TOKEN"     S=11 P=6009671200614 R=123456 T=TELEPHONE PREPAY
+ML030202 "WORLDCALL|R100 TOKEN"    S=11 P=6009671200096 R=123456 T=TELEPHONE PREPAY
+ML030203 "WORLDCALL|R200 TOKEN"    S=11 P=6009671200171 R=123456 T=TELEPHONE PREPAY
+ML0303 "MTN|CELLPHONE"             M=SELECT TYPE
+ML030301 "MTN|R5  TOKEN"           S=11 P=6009637148158 R=123456 T=TELEPHONE PREPAY
+ML030302 "MTN|R10 TOKEN"           S=11 P=6009637148639 R=123456 T=TELEPHONE PREPAY
+ML030303 "MTN|R15 TOKEN"           S=11 P=6009637143924 R=123456 T=TELEPHONE PREPAY
+ML030304 "MTN|R30 TOKEN"           S=11 P=6009637141562 R=123456 T=TELEPHONE PREPAY
+ML030305 "MTN|R60 TOKEN"           S=11 P=6009637141579 R=123456 T=TELEPHONE PREPAY
+ML030306 "MTN|R180 TOKEN"          S=11 P=6009637141593 R=123456 T=TELEPHONE PREPAY
+ML030307 "MORE"                    M=SELECT TYPE
+ML03030701 "MTN|R25 SMS"           S=11 P=6009637148547 R=123456 T=TELEPHONE PREPAY
+ML03030702 "MTN|R35 SMS"           S=11 P=6009637148554 R=123456 T=TELEPHONE PREPAY
+ML03030703 "MTN|10MB R10"          S=11 P=6009700129909 R=123456 T=TELEPHONE PREPAY
+ML03030704 "MTN|75MB R49"          S=11 P=6009700129916 R=123456 T=TELEPHONE PREPAY
+ML0304 "CELL-C|CELLPHONE"          M=SELECT TYPE
+ML030401 "CELL-C|R5 TOKEN"         S=11 P=6009665690377 R=123456 T=TELEPHONE PREPAY
+ML030402 "CELL-C|R10 TOKEN"        S=11 P=6009665690759 R=123456 T=TELEPHONE PREPAY
+ML030403 "CELL-C|R25 TOKEN"        S=11 P=6009665690155 R=123456 T=TELEPHONE PREPAY
+ML030404 "CELL-C|R49 BUNDLE"       S=11 P=6009665691916 R=123456 T=TELEPHONE PREPAY
+ML030405 "CELL-C|R50 TOKEN"        S=11 P=6009665690124 R=123456 T=TELEPHONE PREPAY
+ML030406 "CELL-C|R89 BUNDLE"       S=11 P=6009665691923 R=123456 T=TELEPHONE PREPAY
+ML030407 "CELL-C|R199 BUNDLE"      S=11 P=6009665691930 R=123456 T=TELEPHONE PREPAY
+ML030408 "MORE"                    M=SELECT TYPE
+ML03040801 "CELL-C|R39 SMS"        S=11 P=6009665690162 R=123456 T=TELEPHONE PREPAY
+ML0305 "TELKOM|TELEPHONE"          M=SELECT TYPE
+ML030501 "TELKOM|R20 TOKEN"        S=11 P=6007105000458 R=123456 T=TELEPHONE PREPAY
+ML030502 "TELKOM|R40 TOKEN"        S=11 P=6009671200133 R=123456 T=TELEPHONE PREPAY
+ML030503 "TELKOM|R50 TOKEN"        S=11 P=6009671200737 R=123456 T=TELEPHONE PREPAY
+ML030504 "TELKOM|R100 TOKEN"       S=11 P=6009671200263 R=123456 T=TELEPHONE PREPAY
+ML030505 "TELKOM|R200 TOKEN"       S=11 P=6009671200782 R=123456 T=TELEPHONE PREPAY
+ML0306 "VIRGIN|CELLPHONE"          M=SELECT TYPE
+ML030601 "VIRGIN|R10 TOKEN"        S=11 P=6009900042503 R=123456 T=TELEPHONE PREPAY
+ML030602 "VIRGIN|R15 TOKEN"        S=11 P=6009823300483 R=123456 T=TELEPHONE PREPAY
+ML030603 "VIRGIN|R35 TOKEN"        S=11 P=6009823300414 R=123456 T=TELEPHONE PREPAY
+ML030604 "VIRGIN|R50 TOKEN"        S=11 P=6009823300124 R=123456 T=TELEPHONE PREPAY
+ML030605 "VIRGIN|R80 TOKEN"        S=11 P=6009823300131 R=123456 T=TELEPHONE PREPAY
+ML030606 "VIRGIN|R99 TOKEN"        S=11 P=6009900042510 R=123456 T=TELEPHONE PREPAY
+ML0307 "BELA|CELLPHONE"            M=SELECT TYPE
+ML030701 "BELA|R10 TOKEN"          S=11 P=6009800546033 R=123456 T=TELEPHONE PREPAY
+ML030702 "BELA|R30 TOKEN"          S=11 P=6009800546040 R=123456 T=TELEPHONE PREPAY
+ML030703 "BELA|R50 TOKEN"          S=11 P=6009800546057 R=123456 T=TELEPHONE PREPAY
+ML030704 "BELA|R100 TOKEN"         S=11 P=6009800546064 R=123456 T=TELEPHONE PREPAY
+ML0308 "8Ta|CELLPHONE"             M=SELECT TYPE
+ML030801 "8Ta|R5 TOKEN"            S=11 P=6009802248638 R=123456 T=TELEPHONE PREPAY
+ML030802 "8Ta|R10 TOKEN"           S=11 P=6009802248645 R=123456 T=TELEPHONE PREPAY
+ML030803 "8Ta|R20 TOKEN"           S=11 P=6009802248652 R=123456 T=TELEPHONE PREPAY
+ML030804 "8Ta|R30 TOKEN"           S=11 P=6009802248669 R=123456 T=TELEPHONE PREPAY
+ML030805 "8Ta|R50 TOKEN"           S=11 P=6009802248676 R=123456 T=TELEPHONE PREPAY
+ML030806 "8Ta|R100 TOKEN"          S=11 P=6009802248096 R=123456 T=TELEPHONE PREPAY
+ML030807 "8Ta|R250 TOKEN"          S=11 P=6009802248102 R=123456 T=TELEPHONE PREPAY
+ML04 "CARD TOPUP"                  M=SELECT PRODUCT
+ML0401 "MAG-SWIPE"                 S=51 R=123456 T=GIFT CARD
+ML0402 "KEY ENTRY"                 S=52 R=123456 T=GIFT CARD
+ML05 "PREPAID|OTHER"               M=SELECT SUPPLIER
+ML0501 "Axxess ADSL|TOKENS"        M=SELECT PRODUCT
+ML050101 "Axxess|1 Gig"            S=11 P=6006734000921 R=123456 T=TELEPHONE PREPAY
+ML050102 "Axxess|2 Gig"            S=11 P=6006734000938 R=123456 T=TELEPHONE PREPAY
+ML0502 "Hollard|Insurance"         M=SELECT PRODUCT
+ML050201 "Prepaid|Funeral"         S=11 P=6009671200867
+ML0503 "SAA CYCLE|VOUCHER"         S=11 P=6009800392012 R=123456 T=TELEPHONE PREPAY
+ML0504 "JUSTSURF"		   	     M=SELECT TYPE
+ML050401 "JUSTSURF|384KBS R99"     S=11 P=6006734000198 R=123456 T=TELEPHONE PREPAY
+ML050402 "JUSTSURF|512KBS R149"    S=11 P=6006734000204 R=123456 T=TELEPHONE PREPAY
+ML050403 "JUSTSURF|1024KBS R249"   S=11 P=6006734000211 R=123456 T=TELEPHONE PREPAY
+ML050404 "JUSTSURF|4096KBS R999"   S=11 P=6006734000228 R=123456 T=TELEPHONE PREPAY
+ML06 "RETAIL|BONDS"                M=SELECT TYPE
+ML0601 "PURCHASE"                  S=06 M=SELECT PRODUCT
+ML0602 "QUERY"                     S=07 M=SELECT PRODUCT
+ML060101 "FIXED|RATE"              B=1 M=SELECT PERIOD
+ML06010101 "2 YEAR"                Y=02 M=INVESTMENT TYPE
+ML06010102 "3 YEAR"                Y=03 M=INVESTMENT TYPE
+ML06010103 "5 YEAR"                Y=05 M=INVESTMENT TYPE
+ML0601010101 "REINVEST|INTEREST"   S=06 C=1 R=123456 T=RETAIL BONDS
+ML0601010102 "PAY OUT|6 MONTHLY"   S=06 C=2 R=123456 T=RETAIL BONDS
+ML0601010103 "PAY OUT|MONTHLY"     S=06 C=3 R=123456 T=RETAIL BONDS
+ML0601010201 "REINVEST|INTEREST"   S=06 C=1 R=123456 T=RETAIL BONDS
+ML0601010202 "PAY OUT|6 MONTHLY"   S=06 C=2 R=123456 T=RETAIL BONDS
+ML0601010203 "PAY OUT|MONTHLY"     S=06 C=3 R=123456 T=RETAIL BONDS
+ML0601010301 "REINVEST|INTEREST"   S=06 C=1 R=123456 T=RETAIL BONDS
+ML0601010302 "PAY OUT|6 MONTHLY"   S=06 C=2 R=123456 T=RETAIL BONDS
+ML0601010303 "PAY OUT|MONTHLY"     S=06 C=3 R=123456 T=RETAIL BONDS
+ML060102 "INFLATION|LINKED"        B=2 M=SELECT PRODUCT
+ML06010201 "3 YEAR"                Y=03 M=SELECT PERIOD
+ML06010202 "5 YEAR"                Y=05 M=SELECT PERIOD
+ML06010203 "10 YEAR"               Y=10 M=SELECT PERIOD
+ML0601020101 "PAY OUT|6 MONTHLY"   S=06 C=2 R=123456 T=RETAIL BONDS
+ML0601020201 "PAY OUT|6 MONTHLY"   S=06 C=2 R=123456 T=RETAIL BONDS
+ML0601020301 "PAY OUT|6 MONTHLY"   S=06 C=2 R=123456 T=RETAIL BONDS
+ML07 "QUICK PICK|LOTTO"            M=SELECT TYPE
+ML0701 "Lotto"                     M=SELECT GAME
+ML070101 "Lotto R 7"               S=60 P=6001007191146 R=123456 T=LOTTO 2
+ML070102 "Lotto R 14"              S=60 P=6001007191153 R=123456 T=LOTTO 4
+ML070103 "Lotto R 28"              S=60 P=6001007191160 R=123456 T=LOTTO 8
+ML070104 "Lotto R 70"              S=60 P=6001007191177 R=123456 T=LOTTO 20
+ML0702 "Lotto|Plus"                M=SELECT GAME
+ML070201 "Lotto Plus|R 10"         S=60 P=6001007191184 R=123456 T=LOTTO+ 2
+ML070202 "Lotto Plus|R 20"         S=60 P=6001007191191 R=123456 T=LOTTO+ 4
+ML070203 "Lotto Plus|R 40"         S=60 P=6001007191207 R=123456 T=LOTTO+ 8
+ML070204 "Lotto Plus|R 100"        S=60 P=6001007191214 R=123456 T=LOTTO+ 20
+ML0703 "Powerball"                 M=SELECT GAME
+ML070301 "Powerball|R 7"           S=60 P=6001007213015 R=123456 T=POWER 2
+ML070302 "Powerball|R 14"          S=60 P=6001007213022 R=123456 T=POWER 4
+ML070303 "Powerball|R 35"          S=60 P=6001007213039 R=123456 T=POWER 10
+ML070304 "Powerball|R 70"          S=60 P=6001007213046 R=123456 T=POWER 20
+ML08 "MORE"                        M=SELECT TYPE
+ML0801 "MONEY XFER"                M=SELECT PRODUCT
+ML080101 "DEPOSIT"                 S=65 R=123456 T=MONEY TRANSFER
+ML080102 "WITHDRAWAL"              S=66 R=123456 T=MONEY TRANSFER
+ML0802 "Ticket|Payment"            S=74 R=123456 T=Ticket Payment
+ML0803 "Pay@|Services"             S=75 R=123456 T=Pay@ Services Payment
+ML0804 "MOBILE"                    M=SELECT PRODUCT
+ML080401 "TOPUP"                   S=55 R=123456 T=MOBILE TRANSFER
+ML080402 "WITHDRAWAL"              S=56 R=123456 T=MOBILE TRANSFER

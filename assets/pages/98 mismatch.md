@@ -1,0 +1,21 @@
+- CHECK \SERVER\SAFE\HISTORY.001 and current
+- To
+  search for data you will type in “DIR *00 Till number*
+- CHECK \SERVER\DATA\ dir idc*00X*
+- backup till data C:\bosupd bk-till.bat
+- cd: \Server serv K STOP
+- cmd - tilln IPadress of till
+- vnc to till
+- ALT F4 to go to AS@R Menu
+- start POS server
+	- cd: /Server serv START
+- declare till okay - enter daily password
+- if asks asks for daily again click enter
+- data delete select NO
+- start POS Program
+- start POS program
+-
+-
+- POS BACKUP
+	- check nds folder for bytes folder
+	- rename to bytes1

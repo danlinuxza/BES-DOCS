@@ -1,0 +1,27 @@
+- check ip
+	- E:  drive , upgrades
+	- send upgrade on store
+	- E:
+	- cd into upgrade upgrade directoy
+	- copy   " *.*" / bosupd
+	-
+	- c:
+		- cd \dp4 - updclean
+	-
+	- dir - check for cmd and zip
+	-
+	- check command - check upgrade.ver
+	-
+	- doens't run
+		- in bosupd and delete upgrade.sen
+	-
+	- TODO UPGRADE CHECKLIST SEND EMAIL
+	-
+	-
+	- BUGZILLA
+		- 0.0 for all values - west street
+		- check hocidc
+			- [[DATA PUTBACK FROM TILLS]]
+			-
+		-
+	-

@@ -1,0 +1,8 @@
+- CHECK HOCIDC.DAT - c:\server\safe
+	- dir hocidc* /od
+-
+- TWO OPTIONS
+	- [[LIVE EOD]]
+	- [[STEP 8]] - TRY THIS FIRST
+-
+-

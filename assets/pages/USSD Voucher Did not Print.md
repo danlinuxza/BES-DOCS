@@ -1,0 +1,9 @@
+- Net Use to Till
+- copy over to local machine
+	- data
+	- safe
+	- safeint
+	- poslog for date
+	- eftlog for date
+	- errorlog for date
+	-

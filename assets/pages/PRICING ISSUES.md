@@ -1,0 +1,2 @@
+- maint.log / server directory
+- check FAIL directory , check file size

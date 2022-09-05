@@ -1,0 +1,28 @@
+- **Cashier Codes**
+	- cashier 0102
+	- cashier 0202
+	- cashier 0302
+	- cashier 0199
+	- cashier 0299
+	- cashier 0399
+- shift @ - Supervisor Logon 
+  shift@  - Code : 8000
+- **TEST REQUIRED**
+	- Two transactions
+	- > W for services
+	- _Airtime Test_
+		- 03 - Prepaid Phone
+		- 03 - MTN
+		- 07 - Variable Airtime
+		- Enter Airtime Amount = e,g(7.00)
+- **SHIFT _ = Cancel Transaction**
+	- _HollywoodBet Test_
+	- > W for services
+	- 8 = More
+	- Hollybood Bets
+	- 01 = R5
+- **SHIFT _ = Cancel Transaction**
+-
+- _Sign Out Cashier _
+- Sign out option = **,**
+- Enter Cashier Code

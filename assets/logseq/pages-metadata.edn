@@ -1,0 +1,435 @@
+[{:block/name "98 mismatch",
+  :block/created-at 1656482548820,
+  :block/updated-at 1656939764458}
+ {:block/name "99 mismatch",
+  :block/created-at 1655718644392,
+  :block/updated-at 1656946869557}
+ {:block/name "a",
+  :block/created-at 1652962651603,
+  :block/updated-at 1652962651603}
+ {:block/name "access error guide",
+  :block/created-at 1657457553101,
+  :block/updated-at 1659073939026}
+ {:block/name "adding additional lanes",
+  :block/created-at 1653630709950,
+  :block/updated-at 1653630709950}
+ {:block/name "adding tills",
+  :block/created-at 1652961509760,
+  :block/updated-at 1659072200280}
+ {:block/name "aug 10th, 2022",
+  :block/created-at 1660153168034,
+  :block/updated-at 1660153168034}
+ {:block/name "aug 11th, 2022",
+  :block/created-at 1660216141092,
+  :block/updated-at 1660216152463}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1660516058015,
+  :block/updated-at 1660543076379}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660624187892,
+  :block/updated-at 1660638047186}
+ {:block/name "aug 17th, 2022",
+  :block/created-at 1660709261914,
+  :block/updated-at 1660718533650}
+ {:block/name "aug 19th, 2022",
+  :block/created-at 1660924231547,
+  :block/updated-at 1660924231547}
+ {:block/name "aug 1st, 2022",
+  :block/created-at 1659373069576,
+  :block/updated-at 1659373081769}
+ {:block/name "aug 20th, 2022",
+  :block/created-at 1660969691057,
+  :block/updated-at 1660982842679}
+ {:block/name "aug 21st, 2022",
+  :block/created-at 1661055325490,
+  :block/updated-at 1661063456749}
+ {:block/name "aug 22nd, 2022",
+  :block/created-at 1661154499816,
+  :block/updated-at 1661155212066}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1661229480300,
+  :block/updated-at 1661229480300}
+ {:block/name "aug 24th, 2022",
+  :block/created-at 1661346356809,
+  :block/updated-at 1661402951142}
+ {:block/name "aug 25th, 2022",
+  :block/created-at 1661400796880,
+  :block/updated-at 1661433765923}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1661792738771,
+  :block/updated-at 1661792738771}
+ {:block/name "aug 2nd, 2022",
+  :block/created-at 1659438697566,
+  :block/updated-at 1659465002469}
+ {:block/name "aug 30th, 2022",
+  :block/created-at 1661863331984,
+  :block/updated-at 1661897889252}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1661897448377,
+  :block/updated-at 1661967224818}
+ {:block/name "aug 3rd, 2022",
+  :block/created-at 1659536858455,
+  :block/updated-at 1659547231067}
+ {:block/name "aug 6th, 2022",
+  :block/created-at 1659797941842,
+  :block/updated-at 1659798092947}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1659871671680,
+  :block/updated-at 1659965461289}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1659965456067,
+  :block/updated-at 1659966038506}
+ {:block/name "auth limit for nedbank",
+  :block/created-at 1661433765921,
+  :block/updated-at 1661433828670}
+ {:block/name "b",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "bes docs folders",
+  :block/created-at 1652962651604,
+  :block/updated-at 1656158450154}
+ {:block/name "c",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "canceled",
+  :block/created-at 1657313755184,
+  :block/updated-at 1657313755184}
+ {:block/name "cancelled",
+  :block/created-at 1657313755184,
+  :block/updated-at 1657313755184}
+ {:block/name "cannot vnc into till",
+  :block/created-at 1652961508507,
+  :block/updated-at 1655309572375}
+ {:block/name "cant connect from outside network to till",
+  :block/created-at 1652961508568,
+  :block/updated-at 1652961508568}
+ {:block/name "card",
+  :block/created-at 1652962651603,
+  :block/updated-at 1652962651603}
+ {:block/name "cashier sign in and test",
+  :block/created-at 1659966038505,
+  :block/updated-at 1659966040484}
+ {:block/name "cashier template error",
+  :block/created-at 1661877115141,
+  :block/updated-at 1661877166159}
+ {:block/name "cashier template error ",
+  :block/created-at 1661877113968,
+  :block/updated-at 1661877113968}
+ {:block/name "changing liquor logo slip",
+  :block/created-at 1661404423429,
+  :block/updated-at 1661404426364}
+ {:block/name "check for missing data",
+  :block/created-at 1652961509330,
+  :block/updated-at 1652961509330}
+ {:block/name "contents",
+  :block/created-at 1653068091927,
+  :block/updated-at 1653555194245}
+ {:block/name "data putback",
+  :block/created-at 1652961509107,
+  :block/updated-at 1652961509107}
+ {:block/name "data putback from tills",
+  :block/created-at 1653287254796,
+  :block/updated-at 1653288198644}
+ {:block/name "data putback new",
+  :block/created-at 1657044879576,
+  :block/updated-at 1660219398656}
+ {:block/name "day 2",
+  :block/created-at 1652977066953,
+  :block/updated-at 1652977066953}
+ {:block/name "day 3",
+  :block/created-at 1652977075198,
+  :block/updated-at 1652977075198}
+ {:block/name "day2",
+  :block/created-at 1652977078492,
+  :block/updated-at 1652977078492}
+ {:block/name "debug error webmaster",
+  :block/created-at 1652961509564,
+  :block/updated-at 1652961509564}
+ {:block/name "declaring tills defective",
+  :block/created-at 1652961508608,
+  :block/updated-at 1652961508608}
+ {:block/name "doing",
+  :block/created-at 1652962651603,
+  :block/updated-at 1652962651603}
+ {:block/name "done",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "e coupon did not print",
+  :block/created-at 1656158259451,
+  :block/updated-at 1656158398110}
+ {:block/name "ecoupon database",
+  :block/created-at 1659002103867,
+  :block/updated-at 1659002126898}
+ {:block/name "eft databse remove",
+  :block/created-at 1661346401072,
+  :block/updated-at 1661346425454}
+ {:block/name "enable auto login on a till",
+  :block/created-at 1652961508951,
+  :block/updated-at 1652961508951}
+ {:block/name "enable bottle reutrns",
+  :block/created-at 1661155212062,
+  :block/updated-at 1661155550663}
+ {:block/name "extracting gd90",
+  :block/created-at 1652961509020,
+  :block/updated-at 1652961509020}
+ {:block/name "favorites",
+  :block/created-at 1652962651603,
+  :block/updated-at 1652962651603}
+ {:block/name "gdpossa",
+  :block/created-at 1652961509193,
+  :block/updated-at 1652961509193}
+ {:block/name "gdpossa/env item not on file",
+  :block/created-at 1652961509188,
+  :block/updated-at 1652961801492}
+ {:block/name "how to fix a gdpos.mainjava.lang error",
+  :block/created-at 1652977289135,
+  :block/updated-at 1652978290072}
+ {:block/name "in-progress",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "ip layer 3 change over",
+  :block/created-at 1652961508106,
+  :block/updated-at 1652961508106}
+ {:block/name "java.lang.noclassdeffounderror",
+  :block/created-at 1653292262660,
+  :block/updated-at 1653292489566}
+ {:block/name "jul 10th, 2022",
+  :block/created-at 1657449695130,
+  :block/updated-at 1657481262398}
+ {:block/name "jul 11th, 2022",
+  :block/created-at 1657539433516,
+  :block/updated-at 1657566571154}
+ {:block/name "jul 12th, 2022",
+  :block/created-at 1657623923717,
+  :block/updated-at 1657623923717}
+ {:block/name "jul 13th, 2022",
+  :block/created-at 1657709936997,
+  :block/updated-at 1657805564787}
+ {:block/name "jul 14th, 2022",
+  :block/created-at 1657751191009,
+  :block/updated-at 1657798188934}
+ {:block/name "jul 15th, 2022",
+  :block/created-at 1657885747982,
+  :block/updated-at 1657885747982}
+ {:block/name "jul 18th, 2022",
+  :block/created-at 1658129185639,
+  :block/updated-at 1658131734663}
+ {:block/name "jul 19th, 2022",
+  :block/created-at 1658218279327,
+  :block/updated-at 1658229746761}
+ {:block/name "jul 20th, 2022",
+  :block/created-at 1658310928421,
+  :block/updated-at 1659073891792}
+ {:block/name "jul 24th, 2022",
+  :block/created-at 1658645129959,
+  :block/updated-at 1658645129959}
+ {:block/name "jul 25th, 2022",
+  :block/created-at 1658727298482,
+  :block/updated-at 1658727298482}
+ {:block/name "jul 26th, 2022",
+  :block/created-at 1658904575295,
+  :block/updated-at 1658904575295}
+ {:block/name "jul 27th, 2022",
+  :block/created-at 1658904574647,
+  :block/updated-at 1658904574647}
+ {:block/name "jul 28th, 2022",
+  :block/created-at 1659002060854,
+  :block/updated-at 1659002103872}
+ {:block/name "jul 29th, 2022",
+  :block/created-at 1659070869782,
+  :block/updated-at 1659095236302}
+ {:block/name "jul 4th, 2022",
+  :block/created-at 1656933796878,
+  :block/updated-at 1656947220046}
+ {:block/name "jul 5th, 2022",
+  :block/created-at 1657019096994,
+  :block/updated-at 1657053477025}
+ {:block/name "jul 6th, 2022",
+  :block/created-at 1657108922116,
+  :block/updated-at 1657138453279}
+ {:block/name "jul 8th, 2022",
+  :block/created-at 1657313745026,
+  :block/updated-at 1657313745026}
+ {:block/name "jul 9th, 2022",
+  :block/created-at 1657373047913,
+  :block/updated-at 1657373066969}
+ {:block/name "jun 12th, 2022",
+  :block/created-at 1655118519324,
+  :block/updated-at 1659965964302}
+ {:block/name "jun 13th, 2022",
+  :block/created-at 1655118520123,
+  :block/updated-at 1655122144517}
+ {:block/name "jun 15th, 2022",
+  :block/created-at 1655305843338,
+  :block/updated-at 1655314605258}
+ {:block/name "jun 16th, 2022",
+  :block/created-at 1655398170286,
+  :block/updated-at 1655403286219}
+ {:block/name "jun 20th, 2022",
+  :block/created-at 1655698627529,
+  :block/updated-at 1655717139803}
+ {:block/name "jun 21st, 2022",
+  :block/created-at 1655870808941,
+  :block/updated-at 1655870808941}
+ {:block/name "jun 25th, 2022",
+  :block/created-at 1656151513974,
+  :block/updated-at 1656158266435}
+ {:block/name "jun 26th, 2022",
+  :block/created-at 1656222420659,
+  :block/updated-at 1656251485933}
+ {:block/name "jun 27th, 2022",
+  :block/created-at 1656401333362,
+  :block/updated-at 1656482508143}
+ {:block/name "jun 29th, 2022",
+  :block/created-at 1656482486844,
+  :block/updated-at 1656482548823}
+ {:block/name "jun 6th, 2022",
+  :block/created-at 1655118519007,
+  :block/updated-at 1655118519007}
+ {:block/name "lan imports",
+  :block/created-at 1656401333341,
+  :block/updated-at 1656401333341}
+ {:block/name "late shift",
+  :block/created-at 1652961508318,
+  :block/updated-at 1652961508318}
+ {:block/name "late shift shadow",
+  :block/created-at 1652961508419,
+  :block/updated-at 1655463971627}
+ {:block/name "later",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "level 1closing cashier",
+  :block/created-at 1652961509268,
+  :block/updated-at 1652961509268}
+ {:block/name "live eod",
+  :block/created-at 1653288599404,
+  :block/updated-at 1655405474945}
+ {:block/name "locating and collecting trace files on a till",
+  :block/created-at 1652961508742,
+  :block/updated-at 1652961508742}
+ {:block/name "locating idc from ejr",
+  :block/created-at 1652961508671,
+  :block/updated-at 1652961508671}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652961513916,
+  :block/updated-at 1653065512876}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1653063905826,
+  :block/updated-at 1653065671505}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653279631514,
+  :block/updated-at 1653288599406}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653434555667,
+  :block/updated-at 1653434555667}
+ {:block/name "may 26th, 2022",
+  :block/created-at 1653545015298,
+  :block/updated-at 1653547394627}
+ {:block/name "may 27th, 2022",
+  :block/created-at 1653630706507,
+  :block/updated-at 1653648615839}
+ {:block/name "missing data",
+  :block/created-at 1656947220045,
+  :block/updated-at 1657028942798}
+ {:block/name "morning upgrades",
+  :block/created-at 1653280378534,
+  :block/updated-at 1653287254799}
+ {:block/name "mup",
+  :block/created-at 1655464045233,
+  :block/updated-at 1655703610965}
+ {:block/name "net use to a server or till",
+  :block/created-at 1652961509410,
+  :block/updated-at 1652961509410}
+ {:block/name "new doc for liquor slip",
+  :block/created-at 1661410987656,
+  :block/updated-at 1661411976266}
+ {:block/name "new page: cu",
+  :block/created-at 1653292700743,
+  :block/updated-at 1653292700743}
+ {:block/name "now",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "pos logs",
+  :block/created-at 1653434557228,
+  :block/updated-at 1653434557228}
+ {:block/name "pos-data-scripts",
+  :block/created-at 1653293230298,
+  :block/updated-at 1653293263966}
+ {:block/name "post",
+  :block/created-at 1659536910115,
+  :block/updated-at 1659536910115}
+ {:block/name "pricing issues",
+  :block/created-at 1653648615836,
+  :block/updated-at 1653648711242}
+ {:block/name "printer logo not appearing on screen",
+  :block/created-at 1652961509066,
+  :block/updated-at 1652961509066}
+ {:block/name "server audit",
+  :block/created-at 1658223886182,
+  :block/updated-at 1658224435500}
+ {:block/name "server load",
+  :block/created-at 1652961509638,
+  :block/updated-at 1652961509638}
+ {:block/name "services",
+  :block/created-at 1652961509533,
+  :block/updated-at 1652961509533}
+ {:block/name "spf config",
+  :block/created-at 1659798092945,
+  :block/updated-at 1659798199622}
+ {:block/name "sql",
+  :block/created-at 1652961509694,
+  :block/updated-at 1655463920964}
+ {:block/name "step 11",
+  :block/created-at 1657043176011,
+  :block/updated-at 1659805709027}
+ {:block/name "step 54",
+  :block/created-at 1659373081766,
+  :block/updated-at 1659374174006}
+ {:block/name "step 55",
+  :block/created-at 1656401333348,
+  :block/updated-at 1656401333348}
+ {:block/name "step 62",
+  :block/created-at 1659547231063,
+  :block/updated-at 1659547231063}
+ {:block/name "step 62/63",
+  :block/created-at 1659547231061,
+  :block/updated-at 1659547737112}
+ {:block/name "step 7",
+  :block/created-at 1656611371109,
+  :block/updated-at 1657128158174}
+ {:block/name "step 8",
+  :block/created-at 1657044265720,
+  :block/updated-at 1657044428569}
+ {:block/name "terminal log on issue webmaster",
+  :block/created-at 1659462463060,
+  :block/updated-at 1659462502947}
+ {:block/name "terminal log on issue webmaster ",
+  :block/created-at 1659462462048,
+  :block/updated-at 1659462462048}
+ {:block/name "ticketing",
+  :block/created-at 1658904575290,
+  :block/updated-at 1659073871908}
+ {:block/name "todo",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "update post",
+  :block/created-at 1652961509477,
+  :block/updated-at 1652961509477}
+ {:block/name "update post/tar",
+  :block/created-at 1652961509479,
+  :block/updated-at 1652961509479}
+ {:block/name "update post/tar/gz",
+  :block/created-at 1652961509475,
+  :block/updated-at 1652961509475}
+ {:block/name "ussd voucher did not print",
+  :block/created-at 1657109769555,
+  :block/updated-at 1657116019151}
+ {:block/name "void not showing on eod report",
+  :block/created-at 1652961508873,
+  :block/updated-at 1652961508873}
+ {:block/name "wait",
+  :block/created-at 1652962651604,
+  :block/updated-at 1652962651604}
+ {:block/name "waiting",
+  :block/created-at 1652962651603, 
+  :block/updated-at 1652962651603}]

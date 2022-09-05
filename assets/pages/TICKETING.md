@@ -1,0 +1,16 @@
+- **TO test if SPF configuration worked**
+	- Log on to till
+	- ALT + F4
+	- Option 2 - Software Update
+	- Option 5 - Update Ticket
+	- Delete - SERVICES.DAT in GD90 on till
+	- Copy from c:\server ( SERVICES.TICKET as SERVICES.DAT ) to till GD90
+-
+- Shift@ - Supervisor Code - 8000
+- Cashier - 00102
+- w - for services button
+- 8 - more
+- 1
+- 2 - Book Tickets
+-
+-

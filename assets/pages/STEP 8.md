@@ -1,0 +1,2 @@
+- cd \dp4
+	- step8.bat

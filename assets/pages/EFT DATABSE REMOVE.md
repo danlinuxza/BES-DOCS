@@ -1,0 +1,3 @@
+- **rm /postillion -r -f**
+- **rm /hsqldb -r -f**
+-
