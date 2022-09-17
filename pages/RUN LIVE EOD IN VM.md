@@ -1,0 +1,12 @@
+- **Change the below in NDS_3rd PARTY TABLE**
+- > Change Merchant Number
+- > Store name
+- > Store Number
+-
+- _**Clear the below logs and folders**_
+- > Web logs
+- > Server Data
+- > OPC
+-
+- Copy HODCIDC to Server\Safe
+- LiveEOD.bat

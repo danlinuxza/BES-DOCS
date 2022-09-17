@@ -9,3 +9,7 @@
 	- > copy to pc
 	- > rename files to correct markup file names
 	- > zip new files -- storecode , capital .ZIP
+- > Addtional Options
+- > Recreate Files
+- > Choose Markup to Recreate
+-

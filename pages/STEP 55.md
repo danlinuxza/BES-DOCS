@@ -3,4 +3,8 @@
 	- CHECK size of files in different
 		- MTXWM/GM/LAN to C: Server
 	- HOCIDC created - run live EOD - after step 12
-	-
+-
+- ![image.png](../assets/image_1662740147567_0.png)
+-
+-
+-

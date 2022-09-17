@@ -55,9 +55,18 @@
  {:block/name "aug 25th, 2022",
   :block/created-at 1661400796880,
   :block/updated-at 1661433765923}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1661792738771,
+  :block/updated-at 1661792738771}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659438697566,
   :block/updated-at 1659465002469}
+ {:block/name "aug 30th, 2022",
+  :block/created-at 1661863331984,
+  :block/updated-at 1661897889252}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1661897448377,
+  :block/updated-at 1661967224818}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659536858455,
   :block/updated-at 1659547231067}
@@ -73,12 +82,15 @@
  {:block/name "auth limit for nedbank",
   :block/created-at 1661433765921,
   :block/updated-at 1661433828670}
+ {:block/name "autostart fix",
+  :block/created-at 1663138838152,
+  :block/updated-at 1663138840978}
  {:block/name "b",
   :block/created-at 1652962651604,
   :block/updated-at 1652962651604}
  {:block/name "bes docs folders",
   :block/created-at 1652962651604,
-  :block/updated-at 1656158450154}
+  :block/updated-at 1662302966469}
  {:block/name "c",
   :block/created-at 1652962651604,
   :block/updated-at 1652962651604}
@@ -100,6 +112,12 @@
  {:block/name "cashier sign in and test",
   :block/created-at 1659966038505,
   :block/updated-at 1659966040484}
+ {:block/name "cashier template error",
+  :block/created-at 1661877115141,
+  :block/updated-at 1662302395785}
+ {:block/name "cashier template error ",
+  :block/created-at 1661877113968,
+  :block/updated-at 1661877113968}
  {:block/name "changing liquor logo slip",
   :block/created-at 1661404423429,
   :block/updated-at 1661404426364}
@@ -288,7 +306,7 @@
   :block/updated-at 1652961509268}
  {:block/name "live eod",
   :block/created-at 1653288599404,
-  :block/updated-at 1655405474945}
+  :block/updated-at 1662302522077}
  {:block/name "locating and collecting trace files on a till",
   :block/created-at 1652961508742,
   :block/updated-at 1652961508742}
@@ -321,7 +339,7 @@
   :block/updated-at 1653287254799}
  {:block/name "mup",
   :block/created-at 1655464045233,
-  :block/updated-at 1655703610965}
+  :block/updated-at 1662303043827}
  {:block/name "net use to a server or till",
   :block/created-at 1652961509410,
   :block/updated-at 1652961509410}
@@ -349,6 +367,45 @@
  {:block/name "printer logo not appearing on screen",
   :block/created-at 1652961509066,
   :block/updated-at 1652961509066}
+ {:block/name "run live eod in vm",
+  :block/created-at 1663070836936,
+  :block/updated-at 1663071356470}
+ {:block/name "sep 10th, 2022",
+  :block/created-at 1662797201181,
+  :block/updated-at 1662797201181}
+ {:block/name "sep 12th, 2022",
+  :block/created-at 1662964934336,
+  :block/updated-at 1662964934336}
+ {:block/name "sep 13th, 2022",
+  :block/created-at 1663053653323,
+  :block/updated-at 1663070836942}
+ {:block/name "sep 14th, 2022",
+  :block/created-at 1663138824083,
+  :block/updated-at 1663138838154}
+ {:block/name "sep 17th, 2022",
+  :block/created-at 1663393182134,
+  :block/updated-at 1663393182134}
+ {:block/name "sep 3rd, 2022",
+  :block/created-at 1662222427243,
+  :block/updated-at 1662222427243}
+ {:block/name "sep 4th, 2022",
+  :block/created-at 1662302356697,
+  :block/updated-at 1662302356697}
+ {:block/name "sep 5th, 2022",
+  :block/created-at 1662385540782,
+  :block/updated-at 1662385540782}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1662465375715,
+  :block/updated-at 1662465375715}
+ {:block/name "sep 7th, 2022",
+  :block/created-at 1662574206271,
+  :block/updated-at 1662574206271}
+ {:block/name "sep 8th, 2022",
+  :block/created-at 1662642226988,
+  :block/updated-at 1662660774428}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1662724001810,
+  :block/updated-at 1662730053074}
  {:block/name "server audit",
   :block/created-at 1658223886182,
   :block/updated-at 1658224435500}
@@ -366,13 +423,13 @@
   :block/updated-at 1655463920964}
  {:block/name "step 11",
   :block/created-at 1657043176011,
-  :block/updated-at 1659805709027}
+  :block/updated-at 1662302461784}
  {:block/name "step 54",
   :block/created-at 1659373081766,
   :block/updated-at 1659374174006}
  {:block/name "step 55",
   :block/created-at 1656401333348,
-  :block/updated-at 1656401333348}
+  :block/updated-at 1662740148220}
  {:block/name "step 62",
   :block/created-at 1659547231063,
   :block/updated-at 1659547231063}
@@ -381,10 +438,10 @@
   :block/updated-at 1659547737112}
  {:block/name "step 7",
   :block/created-at 1656611371109,
-  :block/updated-at 1657128158174}
+  :block/updated-at 1662303618410}
  {:block/name "step 8",
   :block/created-at 1657044265720,
-  :block/updated-at 1657044428569}
+  :block/updated-at 1662302551141}
  {:block/name "terminal log on issue webmaster",
   :block/created-at 1659462463060,
   :block/updated-at 1659462502947}
